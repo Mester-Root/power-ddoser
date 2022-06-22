@@ -11,7 +11,7 @@ ___________
 
 `apt install perl`
 
-`git clone https://github.com/Mr-Root/power-ddoser`
+`git clone https://github.com/Mester-Root/power-ddoser`
 
 `cd power-ddoser`
 
